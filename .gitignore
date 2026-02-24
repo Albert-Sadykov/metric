@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+docker-compose.override.yml
+
+# Reports (generated)
+reports/fake_report.txt
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
