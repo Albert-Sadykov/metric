@@ -17,7 +17,7 @@ REST API для управления метриками и записями ме
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <url>
+git clone https://github.com/Albert-Sadykov/metric
 cd metrics_api
 ```
 
